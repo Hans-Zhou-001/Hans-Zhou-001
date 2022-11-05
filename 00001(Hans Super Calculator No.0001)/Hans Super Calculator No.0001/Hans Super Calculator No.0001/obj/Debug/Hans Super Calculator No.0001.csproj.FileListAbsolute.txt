@@ -1,0 +1,7 @@
+C:\Users\hans\Programing\C#\Makings of My Own\001\Hans Super Calculator No.0001\Hans Super Calculator No.0001\bin\Debug\Hans Super Calculator No.0001.exe.config
+C:\Users\hans\Programing\C#\Makings of My Own\001\Hans Super Calculator No.0001\Hans Super Calculator No.0001\obj\Debug\Hans_Super_Calculator_No._0001.Form1.resources
+C:\Users\hans\Programing\C#\Makings of My Own\001\Hans Super Calculator No.0001\Hans Super Calculator No.0001\obj\Debug\Hans_Super_Calculator_No._0001.Properties.Resources.resources
+C:\Users\hans\Programing\C#\Makings of My Own\001\Hans Super Calculator No.0001\Hans Super Calculator No.0001\obj\Debug\Hans Super Calculator No.0001.csproj.GenerateResource.Cache
+C:\Users\hans\Programing\C#\Makings of My Own\001\Hans Super Calculator No.0001\Hans Super Calculator No.0001\bin\Debug\Hans Super Calculator No.0001.exe
+C:\Users\hans\Programing\C#\Makings of My Own\001\Hans Super Calculator No.0001\Hans Super Calculator No.0001\obj\Debug\Hans Super Calculator No.0001.exe
+C:\Users\hans\Programing\C#\Makings of My Own\001\Hans Super Calculator No.0001\Hans Super Calculator No.0001\obj\Debug\Hans Super Calculator No.0001.csprojResolveAssemblyReference.cache
