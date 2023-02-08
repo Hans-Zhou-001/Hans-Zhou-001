@@ -1,7 +1,7 @@
 # It's me, Hans Zhou! #
 Welcome to my Github!
 
-- 👋 Hi, I’m @Hans-Zhou-001
+- 👋 Hi, I’m Hans-Zhou-001
 - 👀 I’m interested in Python and C#. 
 - 🌱 I’m currently learning C#. I'm also keen on sports and Super Mario.
 - 💞️ I’m looking to collaborate on programmers and developers like me, also, players of Super Mario.
